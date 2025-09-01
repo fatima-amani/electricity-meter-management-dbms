@@ -43,8 +43,3 @@ VALUES
 (1, '2025-08-10', 1, 120.00, 'Manual',  B'1', 'reading for August'),
 (2, '2025-08-11', 2, 170.25, 'Automatic',  B'1', 'reading for August'),
 (3, '2025-08-12', 3, 220.50, 'Estimated',  B'1', 'reading for August');
-
-
-
-
-
